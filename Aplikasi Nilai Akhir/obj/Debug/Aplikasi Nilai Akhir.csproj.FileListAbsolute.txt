@@ -1,0 +1,18 @@
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Praktikum\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\bin\Debug\Aplikasi Nilai Akhir.exe.config
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Praktikum\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\bin\Debug\Aplikasi Nilai Akhir.exe
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Praktikum\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\bin\Debug\Aplikasi Nilai Akhir.pdb
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Praktikum\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi Nilai Akhir.csprojResolveAssemblyReference.cache
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Praktikum\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi_Nilai_Akhir.Form1.resources
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Praktikum\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi_Nilai_Akhir.Properties.Resources.resources
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Praktikum\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi Nilai Akhir.csproj.GenerateResource.Cache
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Praktikum\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi Nilai Akhir.exe
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Praktikum\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi Nilai Akhir.pdb
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\bin\Debug\Aplikasi Nilai Akhir.exe.config
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi Nilai Akhir.pdb
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\bin\Debug\Aplikasi Nilai Akhir.exe
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\bin\Debug\Aplikasi Nilai Akhir.pdb
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi Nilai Akhir.csprojResolveAssemblyReference.cache
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi_Nilai_Akhir.Form1.resources
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi_Nilai_Akhir.Properties.Resources.resources
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi Nilai Akhir.csproj.GenerateResource.Cache
+D:\KULIAH\+Berkas Kuliah+\Semester 3\Pemrograman Visual 1\Aplikasi Nilai Akhir\Aplikasi Nilai Akhir\obj\Debug\Aplikasi Nilai Akhir.exe
